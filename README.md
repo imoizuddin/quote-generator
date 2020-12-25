@@ -17,7 +17,7 @@
 
 ## About The Project
 
-[![ScreenShot](C:\My Local Drive\Projects\20 Projects\quote-generator\screenshots\quote-sc.png)
+[![ScreenShot](screenshots\quote-sc.png)
 
 ### Built With
 
