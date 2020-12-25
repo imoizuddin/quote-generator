@@ -43,6 +43,6 @@ Installation
 
 ## Contact
 
-Your Name - [@imoizuddin](https://twitter.com/imoizuddin)
+Moizuddin Q - [@imoizuddin](https://twitter.com/imoizuddin)
 
 Project Link: [https://github.com/imoizuddin/quote-generator](https://github.com/imoizuddin/quote-generator)
