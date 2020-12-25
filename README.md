@@ -17,7 +17,7 @@
 
 ## About The Project
 
-[![ScreenShot](screenshots\quote-sc.png)
+[![ScreenShot](/screenshots/quote-sc.png)
 
 ### Built With
 
